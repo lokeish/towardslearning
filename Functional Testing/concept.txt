@@ -1,0 +1,32 @@
+Functional Testing:
+1. Functional Testing is a type of software testing that validates the software system against the functional
+   requirements/specifications. The purpose of functional testing is to test each function is working in proper way or
+   not by providing valid input and verifying the output against the functional requirements.
+2. Functional Testing is mainly involves black box testing means it is not concerned about the source code present in
+   function. This type of testing can be done manually or automation.
+
+What do you test in Functional Testing?
+1. Mainline Functions.
+2. Basic Usability.
+3. Accessibility.
+4. Error Conditions.
+
+Steps required for functional testing.
+
+1. Understand the Functional Requirements.
+2. Identify test input or test data based on requirements.
+3. Compute the expected outcomes with selected test input values.
+4. Execute test cases.
+5. Compare actual and computed expected results.
+
+
+Examples of Functional Testing:
+1. Unit Testing
+2. Regression Testing
+3. User Acceptance Testing
+4. Integration Testing
+5. White Botx Testing
+6. Black Box Testing
+7. Smoke Testing
+8. Black Box Testing
+9. Sanity Testing
